@@ -1,8 +1,13 @@
-### Hi there 👋, I'm Felix
+### hi there 👋, i'm Felix
 
-🌱 I’m currently learning technical art in Godot!
+Hopefully something in this mess is useful to you, good luck getting through it though. 
 
-😄 Pronouns: he/him#
+#### About me
+- nominated for BAFTA YGD game dev award twice 🎖
+- hosting [code for impact hackathon](https://go.codeforimpact.dev), sign up if age <= 18
+- professional amateur
+
+pronouns: he/him
 
 <!--
 **felixm-byte/felixm-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
